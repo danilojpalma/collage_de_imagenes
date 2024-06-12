@@ -37,7 +37,7 @@ npm install
 Ejecuta el servidor con
 
 ```shell
-npm start
+npm run dev
 ```
 Abre tu navegador web y navega hasta http://localhost:3000.
 
